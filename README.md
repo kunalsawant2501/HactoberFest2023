@@ -32,7 +32,7 @@ To earn your tree reward, you must register and make four valid pull requests (P
 
 Contributions aren't limited to code – we welcome contributions to documentation, design, translations, bug reports and more! If you're new to open source or interested in contributing, this repository is a great place to start. If you're an experienced open-source contributor, feel free to check out these issues and contribute.
 
-## Let's Get Started!
+## Let's Get Started!!
 
 Ready to contribute? Check out our Contribution Guide for information on how to get started.
 
